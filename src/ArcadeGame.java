@@ -3,6 +3,7 @@ public class ArcadeGame {
     int numberOfTokens;
     boolean isMultiplayer;
 
+
     public ArcadeGame(String paramgameName, int paramnumberOfTokens, boolean paramisMultiplayer){
         gameName = paramgameName;
         numberOfTokens = paramnumberOfTokens;

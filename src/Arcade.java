@@ -3,6 +3,7 @@ public class Arcade {
     boolean isOpen;
     int yearFounded;
 
+
     public static void main(String[] args) {
         Arcade pixelParadise = new Arcade();
 
